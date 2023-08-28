@@ -6,6 +6,7 @@ matplotlib
 seaborn
 plotly
 statsmodels
+tabulate
 jupyterlab
 ipython
 virtualenv
