@@ -1,0 +1,12 @@
+torch
+sklearn
+numpy
+pandas
+matplotlib  
+seaborn
+plotly
+statsmodels
+jupyterlab
+ipython
+virtualenv
+ipykernel
