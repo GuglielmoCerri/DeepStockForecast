@@ -7,6 +7,7 @@ seaborn
 plotly
 statsmodels
 tabulate
+termcolor
 jupyterlab
 ipython
 virtualenv
