@@ -33,6 +33,8 @@ The dataset used in this project includes historical stock price data for Google
 
 ## Analysis
 
+![Header Image](docs/decomposition.png)
+
 The analysis step of the project includes several stages:
 
 1. Checking for missing values (NAs) in the dataset.
